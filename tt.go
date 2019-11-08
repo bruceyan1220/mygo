@@ -1,4 +1,4 @@
-package mygo11
+package mygo
 
 import "fmt"
 
